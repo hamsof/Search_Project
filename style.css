@@ -42,3 +42,12 @@ li{
   display: inline;
   margin-left: 2em;
 }
+
+.headings{
+    text-align: center;
+    margin-top: 50px;
+}
+
+p{
+    margin: 40px;
+}
